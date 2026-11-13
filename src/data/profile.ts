@@ -108,7 +108,6 @@ export const languagesSpoken: LanguageSpoken[] = [
   { name: "Marathi", level: "Working" },
   { name: "Dutch", level: "Beginner" },
   { name: "Marwadi", level: "Beginner" },
-  { name: "Punjabi", level: "Beginner" },
 ];
 
 // ---------------------------------------------------------------------------
