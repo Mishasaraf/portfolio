@@ -92,7 +92,6 @@ export const codingLanguages: CodingLanguage[] = [
   { name: "Python", level: "Mid" },
   { name: "TypeScript", level: "Mid" },
   { name: "JavaScript", level: "Beginner" },
-  { name: "C++", level: "Beginner" },
   { name: "SQL", level: "Beginner" },
   { name: "HTML", level: "Mid" },
   { name: "CSS", level: "Beginner" },
